@@ -15,22 +15,22 @@
 
 ### About
 
-Secure-networks technician and cyber-threat watcher in training at **GRETA-CFA Bretagne Sud (Vannes)**, building on 11 years in the digital industry. This account is my public workshop: clean, documented, reusable scripts for **Windows Server / client administration** and **defensive security** — Active Directory, GPO, DHCP, WSUS, hardening, auditing and OSINT.
+Secure-networks technician and cyber-threat watcher in training at **GRETA-CFA Bretagne Sud (Vannes)**, building on 11 years in the digital industry. This account is my public workshop: clean, documented, reusable scripts for **Windows Server / client administration** and **defensive security**: Active Directory, GPO, DHCP, WSUS, hardening, auditing and OSINT.
 
 ### Skills
 
-**Systems & Networks** — Linux (system administration, services) · Windows Server · Active Directory · TCP/IP · Cisco / Packet Tracer · Virtualization
+**Systems & Networks**: Linux (system administration, services) · Windows Server · Active Directory · TCP/IP · Cisco / Packet Tracer · Virtualization
 
-**Security & Compliance** — Cybersecurity fundamentals · digital security · log analysis · anomaly detection · technical auditing · GDPR compliance
+**Security & Compliance**: Cybersecurity fundamentals · digital security · log analysis · anomaly detection · technical auditing · GDPR compliance
 
-**Tooling & Automation** — PowerShell & shell scripting · Git · n8n workflows · Supabase · technical documentation
+**Tooling & Automation**: PowerShell & shell scripting · Git · n8n workflows · Supabase · technical documentation
 
-**Web / Dev background** — WordPress · React · Supabase · Vercel
+**Web / Dev background**: WordPress · React · Supabase · Vercel
 
 ### Training
 
-- **Technicien Réseaux Sécurisés & Veilleur de Cybersécurité** — GRETA-CFA Bretagne Sud, Vannes *(since March 2026, in progress)*
-- **102 h of self-taught OpenClassrooms modules** (12 validated) — Linux & Linux server administration, TCP/IP networking, virtualization, Cisco Packet Tracer & CISCO administration, Windows Server, Active Directory, cybersecurity & digital-security fundamentals
+- **Technicien Réseaux Sécurisés & Veilleur de Cybersécurité**, GRETA-CFA Bretagne Sud, Vannes *(since March 2026, in progress)*
+- **102 h of self-taught OpenClassrooms modules** (12 validated): Linux & Linux server administration, TCP/IP networking, virtualization, Cisco Packet Tracer & CISCO administration, Windows Server, Active Directory, cybersecurity & digital-security fundamentals
 
 ### Featured Projects
 
@@ -48,4 +48,4 @@ Secure-networks technician and cyber-threat watcher in training at **GRETA-CFA B
 
 ### Contact
 
-- Email — d3xmac@proton.me
+- Email: d3xmac@proton.me
