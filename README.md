@@ -57,8 +57,7 @@ Chaque script est conçu pour un usage réel : idempotence, journalisation, gard
 
 - **Lab Active Directory** : forêt multi-DC, durcissement GPO et délégation
 - **Cisco Packet Tracer** : topologies réseau, VLAN et configurations de routage
-- **[cybertool.fr](https://cybertool.fr)** : projet personnel de cybersécurité mené en parallèle de la formation
-
+- 
 ### Formation
 
 - **Technicien Réseaux Sécurisés & Veilleur de Cybersécurité**, GRETA-CFA Bretagne Sud, Vannes *(depuis mars 2026, en cours)*
