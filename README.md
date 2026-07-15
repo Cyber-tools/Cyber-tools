@@ -1,6 +1,6 @@
 <h1 align="center">Cyber-tools</h1>
 <p align="center">
-  Secure-Networks Technician &amp; Cyber-Threat Watcher (in training) · Windows Server / Active Directory · Blue Team
+  Technicien Réseaux Sécurisés &amp; Veilleur en Cybersécurité (en formation) · Windows Server / Active Directory · Blue Team
 </p>
 
 <p align="center">
@@ -10,65 +10,72 @@
   <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white" alt="PowerShell" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Référentiels-ANSSI%20%7C%20NIST%20SP%20800--207-b91c1c" alt="Référentiels" />
 </p>
 
 ---
 
-### About
+### Profil
 
-Secure-networks technician and cyber-threat watcher in training at **GRETA-CFA Bretagne Sud (Vannes)**, building on 11 years in the digital industry. This account is my public workshop: clean, documented, reusable scripts for **Windows Server / client administration** and **defensive security**: Active Directory, GPO, DHCP, WSUS, hardening, detection, auditing and OSINT.
+Technicien réseaux sécurisés et veilleur en cybersécurité, en formation à **GRETA-CFA Bretagne Sud (Vannes)**, après 11 ans d'expérience dans le numérique. Ce compte est mon atelier public : des scripts documentés et réutilisables pour l'**administration Windows Server / postes clients** et la **sécurité défensive** — Active Directory, GPO, DHCP, WSUS, durcissement système, détection, audit et OSINT.
 
-### Focus Areas
+Chaque script est conçu pour un usage réel : idempotence, journalisation, garde-fous anti-verrouillage, réinitialisation contrôlée. Les mesures appliquées s'appuient sur les référentiels **ANSSI** (guide d'hygiène informatique, recommandations de configuration) et le modèle **Zero Trust** (NIST SP 800-207).
 
-- **Windows & Active Directory administration**: provisioning, GPO, DHCP, DNS, WSUS, NTFS / share permissions
-- **System hardening**: CIS Benchmarks, secure baselines for Windows & Linux
-- **Detection & monitoring**: log analysis, anomaly detection, SIEM fundamentals
-- **Threat intelligence & OSINT**: cyber watch (veille), IOC tracking, open-source reconnaissance
-- **Automation**: PowerShell, Python and Bash tooling for repeatable, auditable operations
+### Domaines d'expertise
 
-### Skills
+| Domaine | Détail |
+|---|---|
+| **Administration Windows / Active Directory** | Provisioning, GPO, DHCP, DNS, WSUS, permissions NTFS / partages, modèle AGDLP |
+| **Durcissement système** | CIS Benchmarks, baselines Windows & Linux, audit de conformité |
+| **Détection & supervision** | Analyse de journaux, détection d'anomalies, fondamentaux SIEM |
+| **Threat Intelligence & OSINT** | Veille cyber, suivi d'IOC, reconnaissance en sources ouvertes |
+| **Automatisation** | Scripts PowerShell / Python / Bash pour des opérations reproductibles et auditables |
 
-**Systems & Networks**: Linux (system administration, services) · Windows Server · Active Directory · TCP/IP · Cisco / Packet Tracer · Virtualization (VirtualBox / VMware)
+### Compétences techniques
 
-**Security Operations**: Log analysis · anomaly detection · SIEM fundamentals · incident response basics · MITRE ATT&CK framework
+**Systèmes & réseaux** — Linux (administration, services) · Windows Server · Active Directory · TCP/IP · Cisco / Packet Tracer · Virtualisation (VirtualBox / VMware)
 
-**Hardening & Compliance**: CIS Benchmarks · GPO hardening · Windows & Linux baselines · technical auditing · GDPR compliance
+**Sécurité opérationnelle** — Analyse de logs · détection d'anomalies · fondamentaux SIEM · bases de la réponse à incident · framework MITRE ATT&CK
 
-**Threat Intel & OSINT**: Cyber threat watching · OSINT collection · IOC & vulnerability monitoring
+**Durcissement & conformité** — CIS Benchmarks · durcissement GPO · baselines Windows & Linux · audit technique · conformité RGPD
 
-**Tooling & Automation**: PowerShell · Python · Bash · Nmap · Wireshark · Git · n8n workflows · technical documentation
+**Threat Intel & OSINT** — Veille cyber · collecte OSINT · suivi d'IOC et de vulnérabilités
 
-**Web / Dev background**: WordPress · React · Supabase · Vercel · web security basics
+**Outillage & automatisation** — PowerShell · Python · Bash · Nmap · Wireshark · Git · workflows n8n · documentation technique
 
-### Hands-on Labs & Projects
+**Base développement web** — WordPress · React · Supabase · Vercel · fondamentaux de sécurité web
 
-- **Active Directory lab**: multi-DC forest with GPO hardening and delegation
-- **Cisco Packet Tracer**: network topologies, VLANs and routing configurations
-- **cybertool.fr**: personal cybersecurity project built alongside the training
+### Projets & dépôts
 
-### Training
+| Dépôt | Description |
+|---|---|
+| [**Init-DefenseReseau**](https://github.com/Cyber-tools/Init-DefenseReseau) | Script Bash interactif de défense réseau Debian/Ubuntu : pare-feu à zones/DMZ, IDS/IPS, proxy, reverse proxy, bastion SSH, moindre privilège, audit ANSSI |
+| [**Init-LAMP-WordPress**](https://github.com/Cyber-tools/Init-LAMP-WordPress) | Déploiement automatisé d'un serveur LAMP durci sur Ubuntu Server, avec WordPress en option |
+| **AD-Toolkit** | Boîte à outils PowerShell pour l'initialisation et l'administration Windows Server / Active Directory (mise à jour en cours) |
 
-- **Technicien Réseaux Sécurisés & Veilleur de Cybersécurité**, GRETA-CFA Bretagne Sud, Vannes *(since March 2026, in progress)*
-- **102 h of self-taught OpenClassrooms modules** (12 validated): Linux & Linux server administration, TCP/IP networking, virtualization, Cisco Packet Tracer & CISCO administration, Windows Server, Active Directory, cybersecurity & digital-security fundamentals
+### Labs & travaux pratiques
 
-### Currently Learning
+- **Lab Active Directory** : forêt multi-DC, durcissement GPO et délégation
+- **Cisco Packet Tracer** : topologies réseau, VLAN et configurations de routage
+- **[cybertool.fr](https://cybertool.fr)** : projet personnel de cybersécurité mené en parallèle de la formation
 
-Blue-team detection engineering · SIEM & log correlation · PowerShell for security automation · CTF challenges (blue & red fundamentals)
+### Formation
 
-### Featured Repositories
+- **Technicien Réseaux Sécurisés & Veilleur de Cybersécurité**, GRETA-CFA Bretagne Sud, Vannes *(depuis mars 2026, en cours)*
+- **102 h de modules OpenClassrooms en autoformation** (12 validés) : administration Linux et serveurs Linux, réseaux TCP/IP, virtualisation, Cisco Packet Tracer & administration CISCO, Windows Server, Active Directory, fondamentaux cybersécurité et sécurité numérique
 
-| Repository | Description |
-|------------|-------------|
-| windows-server-toolbox | PowerShell scripts for AD, GPO, DHCP, WSUS and NTFS administration *(coming soon)* |
-| cybersec-scripts | Auditing, hardening, monitoring and OSINT scripts *(coming soon)* |
+### En cours d'apprentissage
 
-### GitHub Stats
+Détection Blue Team · corrélation de logs & SIEM · automatisation PowerShell pour la sécurité · CTF (fondamentaux Blue & Red Team)
+
+### Statistiques GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cyber-tools&show_icons=true&hide_border=true&theme=github_dark" alt="stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-tools&layout=compact&hide_border=true&theme=github_dark" alt="top langs" height="165" />
 </p>
 
-### Contact
+### Liens & contact
 
-- Email: d3xmac@proton.me
+- 🌐 [**aiomi.fr**](https://aiomi.fr) — plateforme de cybersécurité pilotée par IA : audit de sécurité de site web, surveillance continue (SSL/TLS, DNS, en-têtes HTTP, listes noires), hébergée en Europe
+- ✉️ Email : d3xmac@proton.me
